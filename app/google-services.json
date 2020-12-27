@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1023368988943",
+    "firebase_url": "https://beautiesdb-4bc89.firebaseio.com",
+    "project_id": "beautiesdb-4bc89",
+    "storage_bucket": "beautiesdb-4bc89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023368988943:android:e7a82ccf4668f3bd",
+        "android_client_info": {
+          "package_name": "com.android.beautiesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1023368988943-h5bkt65pe02jfqu3ljjc6ujoodemnco5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.beautiesapp",
+            "certificate_hash": "475deec4816560190b91c3e4b68113b3bd7f0f29"
+          }
+        },
+        {
+          "client_id": "1023368988943-oa47ku9fh0l3ucf4strgjko5ilj5i43a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf6Gq9Ub11VbdE4u9v858A2yPxReO73ao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1023368988943-oa47ku9fh0l3ucf4strgjko5ilj5i43a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
